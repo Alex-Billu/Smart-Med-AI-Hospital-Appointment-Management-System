@@ -47,7 +47,6 @@ cd frontend
 npm install
 npm run dev -- --webpack   # Starts Next.js on http://localhost:3000
 ```
-
 ---
 
 ## 🚀 Core Features & Portals
