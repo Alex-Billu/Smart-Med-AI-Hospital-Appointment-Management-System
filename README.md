@@ -1,5 +1,6 @@
 # 🏥 KMCH SmartMed AI -- Hospital Appointment Management System
 
+
 A full-stack, enterprise-grade Hospital Appointment Management Platform for **KMCH Hospital**, engineered with **Node.js, Express, SQLite, Socket.IO, Next.js 15, and Tailwind CSS**.
 
 ---
