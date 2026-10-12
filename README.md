@@ -59,6 +59,7 @@ npm run dev -- --webpack   # Starts Next.js on http://localhost:3000
 - **Real-Time Slot Picker**: Doctor schedules dynamically check booked slots in SQLite to prevent double-booking.
 - **Digital Pass & QR Ticket**: Confirmed appointments generate digital passes with booking IDs (e.g. `KMCH-20260908-XXXX`).
 - **Patient Dashboard & History**: Monitor health metrics and review upcoming/past appointments with cancellation capability.
+  
 
 ### 🩺 Doctor Portal
 - **Real-Time OPD Queue**: Live statistics of total, pending, confirmed, and completed consultations.
