@@ -66,6 +66,7 @@ npm run dev -- --webpack   # Starts Next.js on http://localhost:3000
 - **Real-Time OPD Queue**: Live statistics of total, pending, confirmed, and completed consultations.
 - **Instant Booking Alerts**: Real-time notifications pushed via Socket.IO whenever a patient registers a booking.
 - **Status Management**: 1-click status updates (Accept/Confirm, Mark Completed, Cancel).
+  
 
 ### 🛡️ Hospital Administration Portal
 - **Operations Analytics**: Overview of total patients, active doctors, scheduled visits, and capacity metrics.
